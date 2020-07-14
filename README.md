@@ -1,10 +1,10 @@
 # Maze_Project
-Java project
+### Java project
 
-Example game below: 
+#### Example game below: 
 
-<img src="https://github.com/Finterly/IBP_Yeast/blob/master/Yeast_Poster.png">
+<img src="https://github.com/Finterly/Maze-Java-Project/blob/master/gameplay1.png">
 
 
-<img src="https://github.com/Finterly/IBP_Yeast/blob/master/Yeast_Poster.png">
+<img src="https://github.com/Finterly/Maze-Java-Project/blob/master/gameplay2.png">
 
