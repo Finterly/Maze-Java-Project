@@ -11,6 +11,7 @@ Hidden items: key to open doors, hammer to break walls, trophy for points.
 Rules: fail minus 1 point, retrace step minus 1 point, trophy doubles points. Reach home before you run out of points!
 
 Enter: P to Play or X to Exit:
+
 +---+---+---+---+---+
 |   |   |       | 🏠|
 +   +   +---+   +   +
@@ -23,6 +24,7 @@ Enter: P to Play or X to Exit:
 |🚙         |   |   |
 +---+---+---+---+---+
 p
+
 Welcome! Arthur has entered the maze. 
 Enter: N/S/E/W to Move or X to Exit
 NAME: Arthur, POSSESSIONS: []
